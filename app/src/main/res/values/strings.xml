@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UTS Mobkom</string>
+    <string name="matkul1">Dasar-Dasar Pemrograman</string>
+    <string name="sks1">3</string>
+    <string name="matkul2">Mobile Computing</string>
+    <string name="sks2">3</string>
+    <string name="matkul3">Desain Pemrograman Berorientasi Objek</string>
+    <string name="sks3">3</string>
+    <string name="matkul4">Perancangan Pemrograman Web</string>
+    <string name="sks4">3</string>
+    <string name="matkul5">Human Computer Interaction</string>
+    <string name="sks5">3</string>
+    <string name="matkul6">Komputer Grafik</string>
+    <string name="sks6">3</string>
+    <string name="matkul7">Data Raya dan Pemrograman</string>
+    <string name="sks7">3</string>
+    <string name="matkul8">Pemrograman Deklaratif</string>
+    <string name="sks8">3</string>
+    <string name="matkul9">Olimpisme</string>
+    <string name="sks9">1</string>
+    <string name="matkul10">Rekayasa Perangkat Lunak</string>
+    <string name="sks10">3</string>
+    <string name="matkul11">Kalkulus Differensial</string>
+    <string name="sks11">3</string>
+    <string name="matkul12">Aljabar Linear</string>
+    <string name="sks12">3</string>
+    <string name="matkul13">Kalkulus Integral</string>
+    <string name="sks13">3</string>
+</resources>
